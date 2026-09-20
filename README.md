@@ -4,7 +4,7 @@ Data analysis project based on Starlink customer and subscription data using Pyt
 
 ## Project Overview
 
-This project analyzes customer and subscription data to identify patterns in customer behavior, subscription plans, revenue, and usage.
+This project analyzes customer and subscription data to identify patterns in customer behavior, subscription plans, revenue, and traffic usage.
 
 The project is being developed progressively while learning Python, Pandas, statistics, and data analytics.
 
@@ -20,24 +20,54 @@ The project is being developed progressively while learning Python, Pandas, stat
 
 The project uses two datasets:
 
-- `starlink_customers.csv` — customer information and usage data
+- `starlink_customers.csv` — customer information and traffic usage data
 - `subscriptions.csv` — subscription plans and billing information
+
+The datasets are connected through the customer ID.
 
 ## Analysis
 
-The project includes analysis of:
+The project currently includes the following analyses:
 
-- Customer distribution by country
-- Subscription plans
-- Revenue
-- Revenue per customer
-- Customer activity
-- Download and upload traffic
-- Subscription plan performance
-- Customer behavior
+- **ST001** — High-Traffic Customers in Ukraine
+- **ST002** — Top 10 Customers by Total Traffic
+- **ST003** — Traffic by Country
+- **ST004** — Country Traffic & Customer Analysis
+- **ST005** — Country Revenue Analysis
+- **ST006** — Plan Revenue by Country
+- **ST007** — Subscription Plan Distribution
+- **ST008** — Revenue per Customer by Plan
+- **ST009** — Customer Distribution by Subscription Plan
+- **ST010** — Revenue by Subscription Plan
+- **ST011** — Revenue by Country
+- **ST012** — Customer Activity by Country
+- **ST013** — Upload Traffic by Country
+- **ST014** — Customer Traffic by Subscription Plan
+- **ST015** — Customer Count by Country
+- **ST016** — Average Traffic by Subscription Plan
+- **ST017** — Revenue per Customer by Country
 
-More analysis will be added as the project develops.
+Each analysis follows a consistent structure:
 
-## Project Status
+- Business Question
+- Analysis
+- Code
+- Result
+- Business Insight
 
-🚧 In progress
+## Project Structure
+
+```text
+starlink-python-analytics/
+│
+├── data/
+│   ├── starlink_customers.csv
+│   └── subscriptions.csv
+│
+├── notebooks/
+│   ├── ST001_High-Traffic Customers in Ukraine.ipynb
+│   ├── ST002_Top 10 Customers by total traffic.ipynb
+│   ├── ...
+│   └── ST017_Revenue per Customer by Country.ipynb
+│
+└── README.md
