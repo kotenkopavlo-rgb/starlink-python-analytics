@@ -49,6 +49,7 @@ The project currently includes the following analyses:
 - **ST018** — Subscription Plan Categorization
 - **ST019** — Subscription Status Standardization
 - **ST020** — Customer Plan Category
+- **ST020** — Customer Download Usage Segmentation
 
 
 Each analysis follows a consistent structure:
