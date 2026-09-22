@@ -46,6 +46,10 @@ The project currently includes the following analyses:
 - **ST015** — Customer Count by Country
 - **ST016** — Average Traffic by Subscription Plan
 - **ST017** — Revenue per Customer by Country
+- **ST018** — Subscription Plan Categorization
+- **ST019** — Subscription Status Standardization
+- **ST020** — Customer Plan Category
+
 
 Each analysis follows a consistent structure:
 
