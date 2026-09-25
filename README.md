@@ -50,6 +50,9 @@ The project currently includes the following analyses:
 - **ST019** — Subscription Status Standardization
 - **ST020** — Customer Plan Category
 - **ST021** — Customer Download Usage Segmentation
+- **ST022** — Email Domain Classification
+- **ST023** — Phone Number International Format
+- **ST024** — Phone Number Length Analysis
 
 
 Each analysis follows a consistent structure:
