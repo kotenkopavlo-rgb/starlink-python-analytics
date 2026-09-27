@@ -53,6 +53,9 @@ The project currently includes the following analyses:
 - **ST022** — Email Domain Classification
 - **ST023** — Phone Number International Format
 - **ST024** — Phone Number Length Analysis
+- **ST025** — Customer Usage vs Country Average
+- **ST026** — Customer Revenue Segment
+- **ST027** — Customer Download Rank Within Country
 
 
 Each analysis follows a consistent structure:
