@@ -60,7 +60,7 @@ The project currently includes the following analyses:
 - **ST029** — Average Download by Subscription Plan
 - **ST030** — High-Usage Customers by Plan
 - **ST031** — High-Usage Customer Share by Subscription Plan
-- **ST031** — High-Usage Customers by Selected Plans
+- **ST032** — High-Usage Customers by Selected Plans
 
 
 Each analysis follows a consistent structure:
