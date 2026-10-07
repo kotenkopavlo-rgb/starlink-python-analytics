@@ -56,6 +56,10 @@ The project currently includes the following analyses:
 - **ST025** — Customer Usage vs Country Average
 - **ST026** — Customer Revenue Segment
 - **ST027** — Customer Download Rank Within Country
+- **ST028** — High Usage Customers by Country
+- **ST029** — Average Download by Subscription Plan
+- **ST030** — High-Usage Customers by Plan
+- **ST031** — High-Usage Customer Share by Subscription Plan
 
 
 Each analysis follows a consistent structure:
