@@ -61,6 +61,7 @@ The project currently includes the following analyses:
 - **ST030** — High-Usage Customers by Plan
 - **ST031** — High-Usage Customer Share by Subscription Plan
 - **ST032** — High-Usage Customers by Selected Plans
+- **ST033** — Customers by Subscription Fee Range
 
 
 Each analysis follows a consistent structure:
